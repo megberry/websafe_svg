@@ -9,7 +9,10 @@ dependencies:
   convert: ^2.1.1
   flutter:
     sdk: flutter
-  flutter_svg: ^0.19.2+1
+  flutter_svg:
+    git:
+      url: https://github.com/megberry/flutter_svg.git
+      ref: master
   http: ^0.12.2
   logging: ^0.11.4
   meta: ^1.2.4
