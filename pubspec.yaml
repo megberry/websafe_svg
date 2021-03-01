@@ -12,7 +12,7 @@ dependencies:
   flutter_svg:
     git:
       url: https://github.com/megberry/flutter_svg.git
-      ref: master
+      ref: v19
   http: ^0.12.2
   logging: ^0.11.4
   meta: ^1.2.4
